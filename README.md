@@ -31,7 +31,11 @@ Equipped with a solid academic foundation and a hunger for knowledge, I'm enthus
 
 ## Pinned projects description:
 
-### 1. HOMEHIVE - Real Estate Marketplace
+### HOMEHIVE - Real Estate Marketplace
+
+<div align="left">
+  <a href="https://homehive-84c83.web.app/"><img align="right" src="./ScreenShots/Vite + Reactpng.png" width="200" alt="HomeHive Screenshot"/></a>
+</div>
 
 [LiveLink](https://homehive-84c83.web.app/) &nbsp;&nbsp;&nbsp; [Front-end Repo](https://github.com/tawhid-choudhury/home-hive-Real-estate-website-client) &nbsp;&nbsp;&nbsp; [Back-end Repo](https://github.com/tawhid-choudhury/home-hive-Real-estate-website-server)
 
@@ -50,11 +54,72 @@ Equipped with a solid academic foundation and a hunger for knowledge, I'm enthus
 
 **Project Description:**
 
-Explore the future of real estate with HOMEHIVE, a dynamic marketplace designed for seamless property transactions. Leveraging cutting-edge technologies, this project combines front-end magic with Vite, React, and a responsive UI. The back-end brilliance includes Node.js, Express.js, JWT for secure authentication, and Stripe integration for effortless payment processing.
+- Crafted a responsive React.js interface for HomeHive, enhancing user experience across devices.
+- Implemented a versatile dashboard system catering to various user types.
+- Leveraged Framer Motion for captivating animations on the home page.
+- Ensured user authenticity using JWT cookies for secure authentication.
+- Employed React Router DOM to create a seamless single-page web application.
+- Integrated Stripe API, offering users a frictionless and secure payment system.
 
-HOMEHIVE is more than a marketplace; it's a fusion of innovation and user-centric design, ensuring a modern and reliable platform for real estate enthusiasts. Dive into the future of property transactions with HOMEHIVE!
+Explore the LiveLink and repositories to witness the synergy of cutting-edge technologies in revolutionizing the real estate experience with HomeHive! 🏡✨
 
 <br/>
+
+### JOBFINDERSYL - An Online Job Hunting Platform
+
+<div align="left">
+  <a href="https://jobfindersyl.web.app"><img align="right" src="./ScreenShots/JobHomepng.png" width="200" alt="Job Finder Screenshot"/></a>
+</div>
+
+[LiveLink](https://jobfindersyl.web.app) &nbsp;&nbsp;&nbsp; [Front-end Repo](https://github.com/tawhid-choudhury/job-finder-client) &nbsp;&nbsp;&nbsp; [Back-end Repo](https://github.com/tawhid-choudhury/job-finder-server)
+
+**Technologies Used:**
+
+- Vite
+- React
+- React-router-dom
+- Daisy UI
+- Tailwind CSS
+- NodeJs
+- ExpressJs
+- JWT
+
+**Project Description:**
+
+- Developed an innovative online job hunting platform using Vite and React.
+- Utilized React-router-dom for smooth navigation and a user-friendly experience.
+- Employed Daisy UI and Tailwind CSS for a sleek and responsive design.
+- Built a robust back-end with NodeJs and ExpressJs to handle job data and user interactions.
+- Ensured secure user authentication through JWT for a seamless login experience.
+
+Explore the LiveLink and repositories to dive into the world of job opportunities with JOBFINDERSYL! 🌐🔍
+
+<br/>
+
+### JOBFINDERSYL - An Online Job Hunting Platform
+
+<div align="left">
+  <a href="https://branddealsa10.web.app/"><img align="right" src="./ScreenShots/brandDeals.png" width="200" alt="Job Finder Screenshot"/></a>
+</div>
+
+[LiveLink](https://branddealsa10.web.app/) &nbsp;&nbsp;&nbsp; [Front-end Repo](https://github.com/tawhid-choudhury/brand-deals-client) &nbsp;&nbsp;&nbsp; [Back-end Repo](https://github.com/tawhid-choudhury/brand-deals-server)
+
+**Technologies Used:**
+
+- Vite
+- React
+- React-router-dom
+- Daisy UI
+- Tailwind CSS
+- NodeJs
+- ExpressJs
+
+**Project Description:**
+
+- Developed an innovative online job hunting platform using Vite and React.
+- Utilized React-router-dom for smooth navigation and a user-friendly experience.
+- Employed Daisy UI and Tailwind CSS for a sleek and responsive design.
+- Built a robust back-end with NodeJs and ExpressJs to handle job data and user interactions.
 
 ## Reach me out:
 
