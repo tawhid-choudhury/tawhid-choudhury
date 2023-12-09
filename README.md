@@ -21,7 +21,11 @@ Equipped with a solid academic foundation and a hunger for knowledge, I'm enthus
 
 ## Technologies that I know:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,materialui,mongodb,nodejs,react,tailwind,vite,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,express,firebase,materialui,mongodb,nodejs,react,tailwind,vite,vscode" />
+  </a>
+</p>
 
 <br/>
 
