@@ -29,6 +29,33 @@ Equipped with a solid academic foundation and a hunger for knowledge, I'm enthus
 
 <br/>
 
+## Pinned projects description:
+
+### 1. HOMEHIVE - Real Estate Marketplace
+
+[LiveLink](https://homehive-84c83.web.app/) &nbsp;&nbsp;&nbsp; [Front-end Repo](https://github.com/tawhid-choudhury/home-hive-Real-estate-website-client) &nbsp;&nbsp;&nbsp; [Back-end Repo](https://github.com/tawhid-choudhury/home-hive-Real-estate-website-server)
+
+**Technologies Used:**
+
+- Vite
+- React
+- React-router-dom
+- Material UI
+- Tailwind CSS
+- Framer Motion
+- NodeJs
+- ExpressJs
+- JWT
+- Stripe
+
+**Project Description:**
+
+Explore the future of real estate with HOMEHIVE, a dynamic marketplace designed for seamless property transactions. Leveraging cutting-edge technologies, this project combines front-end magic with Vite, React, and a responsive UI. The back-end brilliance includes Node.js, Express.js, JWT for secure authentication, and Stripe integration for effortless payment processing.
+
+HOMEHIVE is more than a marketplace; it's a fusion of innovation and user-centric design, ensuring a modern and reliable platform for real estate enthusiasts. Dive into the future of property transactions with HOMEHIVE!
+
+<br/>
+
 ## Reach me out:
 
 <div align="center">
