@@ -96,7 +96,7 @@ Explore the LiveLink and repositories to dive into the world of job opportunitie
 
 <br/>
 
-### JOBFINDERSYL - An Online Job Hunting Platform
+### BRANDDEALS - An Online Branded Dealership
 
 <div align="left">
   <a href="https://branddealsa10.web.app/"><img align="right" src="./ScreenShots/brandDeals.png" width="200" alt="Job Finder Screenshot"/></a>
@@ -116,11 +116,15 @@ Explore the LiveLink and repositories to dive into the world of job opportunitie
 
 **Project Description:**
 
-- Developed an innovative online job hunting platform using Vite and React.
-- Utilized React-router-dom for smooth navigation and a user-friendly experience.
-- Employed Daisy UI and Tailwind CSS for a sleek and responsive design.
-- Built a robust back-end with NodeJs and ExpressJs to handle job data and user interactions.
+- Developed BRANDDEALS, an innovative online platform for branded dealership.
+- Utilized Vite and React to create a responsive and dynamic user interface.
+- Incorporated React-router-dom for seamless navigation and user-friendly interactions.
+- Styled the application with Daisy UI and Tailwind CSS, ensuring a sleek and modern design.
+- Implemented a robust back-end using NodeJs and ExpressJs to handle dealership data and user interactions.
 
+Explore the LiveLink and repositories to experience the world of branded deals with BRANDDEALS! 🚗✨
+
+<br />
 ## Reach me out:
 
 <div align="center">
