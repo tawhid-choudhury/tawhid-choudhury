@@ -2,13 +2,26 @@
 
 ## WELCOME! Hope you are having a wonderful day! 👋
 
+Hello! I'm Tawhid, a recent Computer Science and Technology graduate from BRAC University, Bangladesh. 🎓 Eager to forge my path in the digital realm, I've set my sights on becoming a skilled web developer.
+
+Embarking on a journey into the world of React and the MERN Stack, I'm dedicated to mastering the intricacies of web development. From front-end enchantment with React to delving into the depths of MongoDB, Express.js, and Node.js, I'm on a mission to craft robust and dynamic web solutions.
+
+Equipped with a solid academic foundation and a hunger for knowledge, I'm enthusiastic about embracing challenges and staying on the cutting edge of technology. My passion for coding is fueled by the belief that great software can change the world.
+
 <br/>
 
 ## My overview:
 
+- 🙂 Technologies I’m good at : React, Tailwind, MUI, React Router, NodeJS, Firebase, ExpressJS and more
 - 🌱 I’m currently learning : Framer Motion, Mongoose
 - 🤔 I’m trying - To become a web developer.
 - 🔭 I’m currently - A fresh graduate looking for jobs.
+
+<br/>
+
+## Technologies that I know:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,materialui,mongodb,nodejs,react,tailwind,vite,vscode)](https://skillicons.dev)
 
 <br/>
 
